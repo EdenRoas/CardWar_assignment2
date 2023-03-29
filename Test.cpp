@@ -1,5 +1,5 @@
 /**
-*test file for the game CARDWAR
+*Test file for the game CARDWAR
 *Eden  Roas
 */
 #include "doctest.h"
